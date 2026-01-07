@@ -1,10 +1,9 @@
-# saiyabonnett.github.io
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Forensic Psychology Portfolio</title>
+    <title>Saiya Bonnett - Forensic Psychology Portfolio</title>
     <style>
         * {
             margin: 0;
@@ -366,15 +365,15 @@
             <div class="contact-info">
                 <div class="contact-item">
                     <strong>Email:</strong>
-                    <a href="mailto:Yoshibonnett@gmail.com ">Saiya Bonnett</a>
+                    <a href="mailto:Yoshibonnett@gmail.com">Yoshibonnett@gmail.com</a>
                 </div>
                 <div class="contact-item">
                     <strong>LinkedIn:</strong>
-                    <a href="https://linkedin.com/in/yourprofile" target="_blank">LinkedIn</a>
+                    <a href="https://linkedin.com/in/yourprofile" target="_blank">LinkedIn Profile</a>
                 </div>
                 <div class="contact-item">
-                    <strong>Phone Number:</strong>
-                    <a href="https://github.com/yourusername" target="_blank">(321)-917-8521</a>
+                    <strong>Phone:</strong>
+                    <a href="tel:+13219178521">(321) 917-8521</a>
                 </div>
                 <div class="contact-item">
                     <strong>University:</strong>
